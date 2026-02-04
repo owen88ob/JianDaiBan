@@ -14,7 +14,7 @@
 
 点击下方链接下载最新版安装包：
 
-[👉 点击下载 APK (v1.0.0)](这里填你刚才发布的 Release 页面里的 APK 下载链接)
+[👉 点击下载 APK (v1.0.0)]https://github.com/owen88ob/JianDaiBan/releases/download/v1.0.0/JianDaiBan_v1.0.apk
 
 ## 🛠️ 技术栈
 
